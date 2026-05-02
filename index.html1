@@ -4,9 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>เซฟไทร พระสมุทรเจดีย์ | ร้านยางรถยนต์</title>
+<title>เซฟไทร์ พระสมุทรเจดีย์ ร้านเจดีย์การยาง</title>
 
-<meta name="description" content="ร้านยางรถยนต์ เซฟไทร พระสมุทรเจดีย์ จำหน่ายยาง เปลี่ยนยาง ตั้งศูนย์ ถ่วงล้อ ราคาดี ใกล้ฉัน">
+<meta name="description" content="ร้านยางรถยนต์ เซฟไทร์ พระสมุทรเจดีย์ จำหน่ายยาง เปลี่ยนยาง ตั้งศูนย์ ถ่วงล้อ ราคาดี ใกล้ฉัน">
 <meta name="keywords" content="ยางรถยนต์ พระสมุทรเจดีย์, ร้านยาง สมุทรปราการ, เปลี่ยนยาง ใกล้ฉัน">
 
 <link href="https://fonts.googleapis.com/css2?family=Prompt&display=swap" rel="stylesheet">
@@ -35,7 +35,7 @@ footer {text-align:center;padding:20px;background:#020617;}
 <header>
   <div class="logo">
     <img src="logo.jpg" alt="savetyrejdkarnyang">
-    <h2>เซฟไทร</h2>
+    <h2>เซฟไทร์</h2>
   </div>
   <nav>
     <a href="#">หน้าแรก</a>
@@ -45,8 +45,8 @@ footer {text-align:center;padding:20px;background:#020617;}
 </header>
 
 <section class="hero">
-  <h1>ร้านยางมืออาชีพ</h1>
-  <p>เซฟไทร พระสมุทรเจดีย์ เจดีย์การยาง บริการครบ จบที่เดียว</p>
+  <h1>ร้านเจดีย์การยาง</h1>
+  <p>เซฟไทร์ พระสมุทรเจดีย์ บริการครบ จบที่เดียว</p>
   <a class="btn" href="tel:0863394227">📞 โทรเลย</a>
 </section>
 
@@ -78,7 +78,7 @@ footer {text-align:center;padding:20px;background:#020617;}
 <a href="https://line.me/ti/p/~jd177" target="_blank" class="line-btn">💬</a>
 
 <footer>
-  <p>© 2026 เซฟไทร พระสมุทรเจดีย์ เจดีย์การยาง</p>
+  <p>© 2026 เซฟไทร์ พระสมุทรเจดีย์ เจดีย์การยาง</p>
 </footer>
 
 </body>
