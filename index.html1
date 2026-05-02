@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>เซฟไทร พระสมุทรเจดีย์ | ร้านยางรถยนต์</title>
+
+<meta name="description" content="ร้านยางรถยนต์ เซฟไทร พระสมุทรเจดีย์ จำหน่ายยาง เปลี่ยนยาง ตั้งศูนย์ ถ่วงล้อ ราคาดี ใกล้ฉัน">
+<meta name="keywords" content="ยางรถยนต์ พระสมุทรเจดีย์, ร้านยาง สมุทรปราการ, เปลี่ยนยาง ใกล้ฉัน">
+
+<link href="https://fonts.googleapis.com/css2?family=Prompt&display=swap" rel="stylesheet">
+
+<style>
+body {margin:0;font-family:'Prompt',sans-serif;background:#0f172a;color:#fff;}
+header {display:flex;justify-content:space-between;align-items:center;padding:15px 30px;background:#020617;}
+.logo {display:flex;align-items:center;gap:10px;}
+.logo img {width:55px;height:55px;border-radius:50%;border:2px solid #38bdf8;}
+nav a {margin-left:20px;color:#cbd5f5;text-decoration:none;}
+.hero {height:90vh;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;
+background:linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
+url('https://images.unsplash.com/photo-1511919884226-fd3cad34687c');
+background-size:cover;}
+.btn {background:#38bdf8;padding:12px 25px;border-radius:8px;color:#000;text-decoration:none;}
+section {padding:50px 20px;max-width:1000px;margin:auto;}
+.card {background:#1e293b;padding:20px;border-radius:10px;margin:10px;}
+.line-btn {position:fixed;bottom:20px;right:20px;background:#06c755;color:#fff;padding:15px;border-radius:50%;font-size:22px;}
+footer {text-align:center;padding:20px;background:#020617;}
+</style>
+
+</head>
+
+<body>
+
+<header>
+  <div class="logo">
+    <img src="logo.jpg" alt="savetyrejdkarnyang">
+    <h2>เซฟไทร</h2>
+  </div>
+  <nav>
+    <a href="#">หน้าแรก</a>
+    <a href="#services">บริการ</a>
+    <a href="#contact">ติดต่อ</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>ร้านยางมืออาชีพ</h1>
+  <p>เซฟไทร พระสมุทรเจดีย์ เจดีย์การยาง บริการครบ จบที่เดียว</p>
+  <a class="btn" href="tel:0863394227">📞 โทรเลย</a>
+</section>
+
+<section id="services">
+  <h2>บริการของเรา</h2>
+  <div class="card">เปลี่ยนยางรถยนต์,ยางตัน,ยางลมโฟล์คลิฟท์</div>
+  <div class="card">ตั้งศูนย์ ถ่วงล้อ</div>
+  <div class="card">ปะยาง เติมลมธรรมดา,ไนโตรเจน</div>
+</section>
+
+<section id="contact">
+  <h2>ติดต่อเรา</h2>
+
+  <p>📞 <a href="tel:0863394227" style="color:#38bdf8;">086-339-4227</a></p>
+
+  <a href="https://maps.app.goo.gl/7TEKM3ERG7q7k6F9A" target="_blank" class="btn">
+    📍 นำทางไปที่ร้าน
+  </a>
+
+  <br><br>
+
+  <iframe 
+    src="https://www.google.com/maps?q=พระสมุทรเจดีย์&output=embed"
+    width="100%" height="300" style="border:none;border-radius:10px;">
+  </iframe>
+</section>
+
+<!-- LINE -->
+<a href="https://line.me/ti/p/~jd177" target="_blank" class="line-btn">💬</a>
+
+<footer>
+  <p>© 2026 เซฟไทร พระสมุทรเจดีย์ เจดีย์การยาง</p>
+</footer>
+
+</body>
+</html>
